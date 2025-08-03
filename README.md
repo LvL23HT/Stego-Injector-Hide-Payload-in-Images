@@ -95,7 +95,13 @@ Stealth meets simplicity.
 
 The code appears at the indicated time: 14:00 UTC  
 ```
-Code not available, please check later.
+In the image you could find the password to decipher.
+
+ Clue: “The image holds information in the LSB of RGB components. Normalize it first. Then look at the parity.” 
+
+Order used to encrypt the password → ROT13 → Base64 (x3) → AES(key= name domain forum) → DES(key= name old domain forum) → Vigenère (key= name creator tool Stego Injector)
+
+ https://htdark.com/filecloud/download.php?id=p6d61rt2vz
 ```
 
 ### 🔗 Source or Demo
