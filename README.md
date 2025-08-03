@@ -102,6 +102,7 @@ In the image you could find the password to decipher.
 Order used to encrypt the password → ROT13 → Base64 (x3) → AES(key= name domain forum) → DES(key= name old domain forum) → Vigenère (key= name creator tool Stego Injector)
 
  https://htdark.com/filecloud/download.php?id=p6d61rt2vz
+Password: htdark.com
 ```
 
 ### 🔗 Source or Demo
